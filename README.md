@@ -5,4 +5,4 @@ Tugas APL
   $ javac StarbuzzCoffee.java
   $ java StarbuzzCoffee
 
-2. Hasilnya ![image]= ./Foto/1.PNG
+2. Hasilnya ![image]./Foto/1.PNG
